@@ -12,3 +12,9 @@ the workflow
 - modeling 
 - validation
 - decision making and deployment
+
+supervised learning
+- regression
+    - outcome is continuous
+- classification
+    - outcome is category
