@@ -1,0 +1,12 @@
+You are required to perform classification on diabetes dataset in the scikit-learn library using Python on Jupyter notebook. 
+
+You should also answer the following questions:
+- How many instances in the data
+- How did the classifier perform
+- Provide the decision tree
+
+Run another model using random forest and compared its performance against decision tree.
+
+To further improve random forest, you run bagging on random forest, will the result improve?
+
+Finally run a significance test on all three models and report the outcome
